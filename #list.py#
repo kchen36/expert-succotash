@@ -1,0 +1,2 @@
+def union(a,b):
+    [x for x in a for x in b

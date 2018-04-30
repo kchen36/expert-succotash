@@ -1,0 +1,2 @@
+bambi = open("bambi.txt", "r")
+print bambi;
